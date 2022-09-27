@@ -6,9 +6,5 @@
  * 1 metro = 100 centimetros
  */
 
-// let altura = 100;
-// let edad = 10;
-
-let x = [1,2,3];
- x[0] = x[1]
- console.log(x);
+let altura = 100;
+let edad = 10;
