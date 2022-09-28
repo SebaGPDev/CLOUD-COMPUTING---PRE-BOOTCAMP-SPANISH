@@ -6,4 +6,5 @@ const saludar = () => {
     ? alert("¡Voy por ti, Dooku!")
     : alert(`¡Buen día, ${nombre} ${ahora}`);
 };
+
 saludar();
