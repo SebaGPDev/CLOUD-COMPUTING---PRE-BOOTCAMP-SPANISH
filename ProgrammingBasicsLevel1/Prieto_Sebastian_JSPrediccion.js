@@ -32,5 +32,7 @@ function add(num1, num2) {
   var sum = num1 + num2;
   console.log(sum);
 }
-
+// El primer console mostrara "!Sumando números!"
+// El segundo console mostrara "num1: 10";
+// El tercero console mostrara "num2: 20";
 // Respuesta = Esta funcion recibe dos variables como parametros que seran usadas para realizar una suma, el ultimo console.log mostrara la suma de las dos variables
